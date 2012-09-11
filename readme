@@ -1,0 +1,4 @@
+This is a simple C implementation for permutation using both recursive and non recursive ways. 
+
+The program will let you input a string and print all possible permutations using recursive and then non recursive algorithms.
+
